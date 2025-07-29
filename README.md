@@ -3,7 +3,7 @@
 A sleek, responsive website for **[Spring]**, showcasing our design services, portfolio, and client collaborations. Built with React for blazing-fast performance and stunning animations.  
 
 
-![Project Screenshot](./assets/Screenshot.png) *(Optional: Add a screenshot)*
+![Project Screenshot](../assets/Screenshot.png)
 
 ## 🎨 Key Features  
 - **Showcase Portfolio** – Interactive gallery of design projects  

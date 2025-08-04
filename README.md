@@ -17,7 +17,7 @@ A sleek, responsive website for **[Spring]**, showcasing our design services, po
 - **Deployment**: Vercel
 
 ## 🌟 Live Demo
-➡️ [Explore the live application here]((https://spring-react-kappa.vercel.app/)) ⬅️
+➡️ [Explore the live application here](https://spring-react-kappa.vercel.app/) ⬅️
 
 ## 🚀 Quick Start  
 1. Clone repo:  
